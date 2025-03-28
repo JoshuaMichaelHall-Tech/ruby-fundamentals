@@ -1,39 +1,66 @@
 # Ruby Fundamentals
 
-This repository contains my solutions and notes while working through core Ruby programming concepts as part of the Launch School curriculum.
+## Overview
+This repository contains extended Ruby exercises, concepts, and projects beyond the Launch School curriculum. While my [launch-school-coursework](https://github.com/joshuamichaelhall/launch-school-coursework) repository contains the structured curriculum work, this repository serves as a space for deeper exploration, experimentation, and personal projects in Ruby.
 
-## About
+## Purpose
+The primary purposes of this repository are:
+1. Explore Ruby concepts in greater depth than required by Launch School
+2. Build personal projects showcasing Ruby skills
+3. Experiment with Ruby gems and frameworks not covered in the curriculum
+4. Document learning discoveries and advanced techniques
+5. Prepare for technical interviews with Ruby-focused practice
 
-Launch School's Ruby track focuses on building a solid foundation in programming fundamentals using Ruby as the primary language. This repository documents my progress through mastering:
+## Contents
 
-- Basic Ruby syntax and semantics
-- Object-oriented programming concepts
-- Collection manipulation (Arrays, Hashes)
-- Algorithmic thinking
-- Testing with Minitest
-- Debugging and problem-solving techniques
+### Advanced Ruby Concepts
+- Metaprogramming techniques and examples
+- Ruby performance optimization patterns
+- Ruby design patterns implementation
+- Concurrency and parallelism in Ruby
+- Ruby internals exploration
 
-## Structure
+### Personal Projects
+- Command-line tools and utilities
+- Data processing scripts
+- API wrappers and clients
+- Text processing tools
+- Automation scripts
 
-- `/exercises` - Solutions to Launch School exercises
-- `/notes` - Detailed notes on Ruby concepts
-- `/projects` - Small projects demonstrating mastery
-- `/assessments` - Preparation for Launch School assessments
+### Ruby Gems Exploration
+- Working with popular gems beyond the curriculum
+- Creating custom gems
+- Contributing to open-source Ruby projects
+- Benchmarking various gem implementations
 
-## Learning Goals
+### Interview Preparation
+- Data structure implementations in Ruby
+- Algorithm challenges with Ruby solutions
+- Object-oriented design exercises
+- Ruby-specific technical interview questions and solutions
 
-- Develop fluency in Ruby's syntax and paradigms
-- Master object-oriented design principles
-- Build strong debugging skills
-- Establish test-driven development habits
-- Create clean, maintainable code
+## Development Approach
+All work in this repository follows these principles:
+- Test-driven development with RSpec
+- Comprehensive documentation with RDoc
+- Adherence to Ruby style guidelines
+- Performance considerations and optimizations
+- Regular refactoring for code quality
 
-## Resources
+## Relationship to Launch School Curriculum
+This repository complements the structured Launch School curriculum by:
+- Providing space for independent exploration
+- Allowing deeper dives into topics of particular interest
+- Supporting the development of a unique programming style
+- Building a portfolio of work demonstrating mastery beyond course requirements
 
-- [Launch School Core Curriculum](https://launchschool.com/curriculum)
-- [Ruby Documentation](https://ruby-doc.org/)
-- [Practical Object-Oriented Design in Ruby](https://www.poodr.com/)
+## Usage
+Feel free to explore this repository to see examples of Ruby programming beyond the basics. The code here demonstrates advanced concepts and practical applications that build upon fundamental knowledge.
+
+## Related Repositories
+- [launch-school-coursework](https://github.com/joshuamichaelhall/launch-school-coursework): Main repository for Launch School curriculum work
+- [software-engineering-reference](https://github.com/joshuamichaelhall/software-engineering-reference): Comprehensive reference materials for software engineering topics
+- [terminal-setup](https://github.com/joshuamichaelhall/terminal-setup): Development environment configuration for Ruby development
 
 ## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
+This repository is available under the MIT License. See the LICENSE file for details.
